@@ -90,11 +90,11 @@ stage.register(comment)
 
 var regex = new RegExp('.*')
 
-const admin_id = 1973272646;
+const admin_id = 1449999447;
 
 const admin_id2 = 5203630385;
 
-var mongo_url = 'mongodb+srv://MrJack:meispro@cluster0.bqxnm.mongodb.net/?retryWrites=true&w=majority'; // Your Mongo URL Here
+var mongo_url = 'mongodb+srv://Krishna91:9U53kGpw3bW1mDxM@cluster0.zrafmqo.mongodb.net/?retryWrites=true&w=majority'; // Your Mongo URL Here
 
 const buttonsLimit = {
 
