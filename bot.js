@@ -94,7 +94,7 @@ const admin_id = 1635788715;
 
 const admin_id2 = 5203630385;
 
-var mongo_url = 'mongodb+srv://bot_v2:bot_v2@cluster0.kzreu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'; // Your Mongo URL Here
+var mongo_url = 'mongodb+srv://MrJack:meispro@cluster0.bqxnm.mongodb.net/?retryWrites=true&w=majority'; // Your Mongo URL Here
 
 const buttonsLimit = {
 
